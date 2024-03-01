@@ -1,0 +1,24 @@
+{
+    "programs": [
+        {
+            "label": "Photoshop",
+            "path":  "/Library/Application Support/Adobe/Adobe Photoshop CC 2018/AMT/"
+        },
+        {
+            "label": "Illustrator",
+            "path":  "/Applications/Adobe Illustrator CC 2018/Support Files/AMT/AI/AMT/"
+        },
+        {
+            "label": "InDesign",
+            "path":  "/Applications/Adobe InDesign CC 2018/Resources/AMT/ID/AMT/"
+        },
+        {
+            "label": "LightroomClassic",
+            "path": "/Library/Application Support/Adobe/Adobe Lightroom Classic CC AMT/AMT/"
+        },
+        {
+            "label": "XD",
+            "path": "/Library/Application Support/Adobe/Adobe XD CC/AMT/"
+        }
+    ]
+}
