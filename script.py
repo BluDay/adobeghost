@@ -1,11 +1,9 @@
 """
-Adobe Ghost 2.0 - BluDay
+AdobeGhost 2.0
 
-https://github.com/BluDay
+https://github.com/BluDay/adobeghost
 
-( 0 _ o )
-
-Refactored version of the original script.
+A refactored version of the original script.
 """
 
 from os        import getuid
@@ -95,7 +93,7 @@ def run():
         raise Exception('[-] Could not write key to the {} file for {}.'.format(
             'Application.xml',
             target_program_name
-        )
+        ))
 
     print '[+] {} -> {}'.format(old_key, new_key)
     print '[+] Complete. Have a good day.'
